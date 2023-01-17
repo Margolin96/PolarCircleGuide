@@ -1,0 +1,13 @@
+module.exports = `<style>
+    body {
+        margin: 0;
+        font-size: 16px;
+        line-height: 24px;
+        font-family: sans-serif;
+    }
+
+    .container {
+        max-width: 1080px;
+        margin: 20px auto;
+    }
+</style>`

@@ -1,0 +1,26 @@
+{
+  "name": "polarcircleguide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "momentjs": "^2.0.0",
+    "pg": "^7.12.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Margolin96/polarcircleguide.git"
+  },
+  "author": "Aleksei Margolin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Margolin96/polarcircleguide/issues"
+  },
+  "homepage": "https://github.com/Margolin96/polarcircleguide#readme"
+}
